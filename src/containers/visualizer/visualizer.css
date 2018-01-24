@@ -1,0 +1,15 @@
+input {
+  display: none;
+}
+.pizza {
+  padding: 1rem;
+  text-align: center;
+}
+.loading {
+  margin: 1rem auto 0rem auto;
+  text-align: center;
+}
+canvas {
+  width: 100%;
+  image-rendering: pixelated;
+}

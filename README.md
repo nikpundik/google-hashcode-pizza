@@ -1,0 +1,1 @@
+Visualizer for the [Google Hashcode](https://hashcode.withgoogle.com/) 2018 training round

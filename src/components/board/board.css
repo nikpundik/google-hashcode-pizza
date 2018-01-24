@@ -1,0 +1,30 @@
+.board-container {
+  color: #fff;
+  background-color: #000;
+  padding: 1rem;
+}
+
+.board {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.board > div {
+  line-height: 30px;
+}
+.input-buttons {
+  display: flex;
+}
+.input-buttons > * {
+  margin-right: 1rem;
+}
+.clickable {
+  cursor: pointer;
+}
+.clickable:hover {
+  color: #dd8899;
+}
+
+.selected {
+  color: #dd2233;
+}
